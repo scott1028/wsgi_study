@@ -1,9 +1,9 @@
-# How to start
+## How to start
 
     python wsgi_server.py
 
 
-# use Django project_name/wsgi.py as Sample
+## use Django project_name/wsgi.py as Sample
 
     # make Apache WSGI can Load .venv site-packages
     import sys
